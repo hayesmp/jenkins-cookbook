@@ -14,4 +14,3 @@ depends "apache2"
 depends "nginx"
 depends "iptables"
 
-recipe "jenkins"
